@@ -37,10 +37,28 @@ in totality. Our outliers for our esitmation spans between 2 - 5 days per user
 story. 
 
 ##Individual
-My individual estimates for the accepted topics are as followed:
-	
-##Team
+My individual estimates for the accepted topics are as followed(Date in parens is accepted):
 
+#### Write a Review of team: 2 days (Accepted choice) 	
+#### Select a game style: 5 days
+#### Set user preferences: 5 days
+#### Create a new team: 8 days
+#### Delete a lineup: 2 days
+#### Delete a player: 2 days
+#### Favorite teams save feature: 3 days
+#### Live feed fantasy tips: 4 days
+#### Search community teams: 3 days (Accepted choice) 
+
+##Team
+#### Write a Review of team: 2 days	
+#### Select a game style: 3 days
+#### Set user preferences: 3 days
+#### Create a new team: 5 days
+#### Delete a lineup: 1 days
+#### Delete a player: 1 days
+#### Favorite teams save feature: 1 days
+#### Live feed fantasy tips: 3 days
+#### Search community teams: 3 days 
 ##Revisions
 
 #Details of the process and the procedures that were followed
