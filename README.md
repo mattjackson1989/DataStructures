@@ -37,7 +37,7 @@ in totality. Our outliers for our esitmation spans between 2 - 5 days per user
 story. 
 
 ##Individual
-My individual estimates for the accepted topics are as followed(Date in parens is accepted):
+My individual estimates for the accepted topics are as followed:
 
 #### Write a Review of team: 2 days (Accepted choice) 	
 #### Select a game style: 5 days
@@ -60,7 +60,8 @@ My individual estimates for the accepted topics are as followed(Date in parens i
 #### Live feed fantasy tips: 3 days
 #### Search community teams: 3 days 
 ##Revisions
-
+There were no revisions that were decided on. We felt pretty confident after our last meeting
+that these were solid estimations for the scope of these storys.
 #Details of the process and the procedures that were followed
 
 #How the team interaction worked
