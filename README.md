@@ -91,10 +91,29 @@ Once the team's software target was established, we moved to figuring out the us
 target. We had an agreement to bring _at least_ 6 user stories to the table for our next meeting. We
 gathered for the next meeting and sorted our stories based on likeness, scope, and elegance. Two of
 my stories were accepted while the other four were either duplicates or out-of-scope. Our next 
-meeting we played poker again but this time it was for estimates for the user estimates. The 
-estimates for each task were played and the variance to our ultimate choices were very small.
-#How the team interaction worked
+meeting we played poker again but this time it was for the user story time estimates. The 
+estimates for each task were played and the variance to our ultimate choices were very small. 
+Finally, we had to develop tasks for each user story. Currently we have one user story's tasks
+planned out. 
+There are 6 of them:
+######Sport Class(Estimation: 2 days)
+######Create Scheme(Estimation: 2 days)
+######Team Preference Class(Estimation: 4 days)
+######Create a Team(Estimation: 2 days)
+######SQL Interface(Estimation: 3 days)
+######Create UI Class(Estimation: 5 days)
+These were decided on a mixture of playing poker and general discussion. 
 
-#What **did** and **did not** work
+#How the team interaction worked:
+The interations with each other has been very smooth. We all tend to have the same idea on the 
+scope of certain pieces to the project. There has been a couple brief debates between members on
+what tasks should be used for a user story, but that is a healthy given.
 
-#Observations of the process
+#What **did** and **did not** work and observations of the process:
+I feel like playing poker is a great process for seeing everyones ideas and deciding based on
+majority vote. If the mode of a given set of cards does not exist, then we will take the average
+of the overall cards given that their are no outliers to throw of the average. I felt that general
+discussion with no organization of what to do tends to lead to longer meeting times and less 
+production. This was present in earlier meetings due to getting to know each other and figuring 
+out a direction. As time went on, things began to get smoother, we started using the method of
+playing poker and that ended up being very successful in fast, efficient meetings.
