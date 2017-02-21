@@ -59,11 +59,40 @@ My individual estimates for the accepted topics are as followed:
 #### Favorite teams save feature: 1 days
 #### Live feed fantasy tips: 3 days
 #### Search community teams: 3 days 
+
 ##Revisions
 There were no revisions that were decided on. We felt pretty confident after our last meeting
-that these were solid estimations for the scope of these storys.
-#Details of the process and the procedures that were followed
+that these were solid estimations for the scope of these user storys.
 
+#Details of the process and the procedures that were followed
+Starting with the name, our team began by brainstorming ideas for a name for the team. This 
+was a 20 minute discussion that ended with deciding on a list of names with "Death Star" at the top
+of the list. Our next meeting we played poker to decide on which app idea would be our development
+choice. 
+
+These ideas were:
+	**Automation App**
+		An application that automates certain tasks on your phone and provides small macro 
+		features as well. You will be able to create a task that will do something based on 
+		a location or a time. Also will be able to do a small script that does multiple tasks.
+	**Chat Enhancer**
+		An application that enhances a standard messenger giving the user’s the ability to 
+		query and display sports stats, quotes, and pictures.
+	**Microphone app**
+		An application that acts as a microphone by using numerous other peoples phones 
+		speakerphone.  The app would allow users to connect to your phone and when you 
+		spoke out of your phone it would come out of all the other peoples phones.
+	**Fantasy Football**
+		An application that would build a fantasy football lineup for the user based off of 
+		a few parameters preset by the developer. The app would allow for mass creation and 
+		randomization of sports fantasy lineups for daily or season leagues.
+
+Once the team's software target was established, we moved to figuring out the user stories for the
+target. We had an agreement to bring _at least_ 6 user stories to the table for our next meeting. We
+gathered for the next meeting and sorted our stories based on likeness, scope, and elegance. Two of
+my stories were accepted while the other four were either duplicates or out-of-scope. Our next 
+meeting we played poker again but this time it was for estimates for the user estimates. The 
+estimates for each task were played and the variance to our ultimate choices were very small.
 #How the team interaction worked
 
 #What **did** and **did not** work
