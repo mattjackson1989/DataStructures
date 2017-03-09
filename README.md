@@ -193,16 +193,16 @@ ______________________________________________________________________
 ###to 23 days of work.
 ------------------------------------------------------------------------------
 ##Plan D: 
-###(The other developer is taken for another project)(Lone wolf style)
-###-At the start of the last iteration of your current plan
-###1 x 30 x 0.7 = 21 days of actual work solo with 0.7 velocity in 30 day
-###However, 8 days remain of actual work, with 11 days to spare
+###(The other developer is taken for another project)(Lone wolf style)	
+###-At the start of the last iteration of your current plan	
+###1 x 30 x 0.7 = 21 days of actual work solo with 0.7 velocity in 30 day	
+###However, 8 days remain of actual work, with 11 days to spare	
 
-##NEW ITERATION 1 with velocity taken into account: 18 days
-###Select game style = 3 days, priority of 10
-###Create a new Team = 7 days days, priority of 10
-###Delete a player = 4 days, priority 20
-###Delete a lineup = 4 days, priority 20
+##NEW ITERATION 1 with velocity taken into account: 18 days	
+###Select game style = 3 days, priority of 10	
+###Create a new Team = 7 days days, priority of 10	
+###Delete a player = 4 days, priority 20	
+###Delete a lineup = 4 days, priority 20	
 
 
 ##NEW ITERATION 2 with velocity taken into account: 18 days
@@ -212,13 +212,13 @@ ______________________________________________________________________
 ###Favorite team save feature = 4 days, priority 50
 
 ##Reality scenario
-##ITERATION 2 with velocity taken into account and extra feature and 1 developer: 19 days
-###Set User Preferences = 11 days, priority 30
-###Search Community teams = 4 days, priority 30
-###Write review of a team = 4 days, priority 40
+##ITERATION 2 with velocity taken into account and extra feature and 1 developer: 19 days	
+###Set User Preferences = 11 days, priority 30		
+###Search Community teams = 4 days, priority 30	
+###Write review of a team = 4 days, priority 40	
 
 ##ITERATION 3 with velocity taken into account and extra feature and 1 developer: 4 days
-###Favorite team save feature = 4 days, priority 50
+###Favorite team save feature = 4 days, priority 50	
 
 ####What happened: At the beggining of iteration 2, a developer was switched from project, thus having
 ####to re-evaluate the velocity with work days and re adjust an iteration plan. This time a single worker
