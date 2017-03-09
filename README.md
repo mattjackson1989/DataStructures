@@ -1,119 +1,228 @@
-#### Report Author: Mathew Jackson								 |
-#### Author ID    : 2152277										 | 		
-#### Author Team  : Death Star									 |
-#### Class Section: 801											 |
+#### Report Author: Mathew Jackson							 |
+#### Author ID    : 2152277								 | 		
+#### Author Team  : Death Star								 |
+#### Class Section: 801	
 
-#User Stories contributed
-The user stories I suggested to the team were:
+#####User stories to work with(adjusted for this assignment on days):
+#### Write a Review of team: 3 days - 40
+#### Select a game style: 2 days - 10
+#### Set user preferences: 4 days - 30
+#### Create a new team: 5 days - 10
+#### Delete a lineup: 3 days - 20
+#### Delete a player: 3 days - 20
+#### Favorite teams save feature: 3 days - 50
+#### Live feed fantasy tips: 4 days - 50
+#### Search community teams: 3 days  - 30
 
-###Write a Review of team(ACCEPTED)- 
-				     Write a comment with a 5-Star rating
-				     based on the user's lineup. The accepted 
-				     estimation was _2 days_.
-###Seat user preferences(ACCEPTED) - 
-				     Allows to adjust public/private settings that 
-				     involve an email address, team name, etc. The 
-				     accepted estimation was _3 days_.
-###Search User Teams(DUPLICATE)    - 
-				     Feature would provide the ability to search
-				     for another person's profile to see their line
-				     ups.
-###Show top _n_ lineups(DUPLICATE) - 
-				     Show the _n_ best lineups currently registered 
-				     the app. The option would allow user to see a list
-				     of usernames and their team lineup's place.
-###Create linupe(DUPLICATE)    	   - 
-				     Allows the user to create a fantasy sport lineup
-				     based off of options provided by the ceveloper.
-###Favoriting System(O-O-S)        - 
-				     This feature allows the user to favorite lineups
-				     by other users. Once favorited then it will be 
-				     appended to a list which the user can view from
-				     their profile.
+#Total days: 30 days of work
 
-#Estimations(3 sub topics)
-The estimation for these user stories are not expected to take very much time
-in totality. Our outliers for our esitmation spans between 2 - 5 days per user
-story. 
+##Priorities to work with:	
+#20x, 30x, 40x, 10x, 30x, 50x, 20x, 10x, 50x
 
-##Individual
-My individual estimates for the accepted topics are as followed:
+###Plan A:
+#(30 day iteration, 2 developers, 0.7 velocity)
+##20, 30, 40, 10, 30, 50, 20, 10, 50
 
-#### Write a Review of team: 2 days (Accepted choice) 	
-#### Select a game style: 5 days
-#### Set user preferences: 5 days
-#### Create a new team: 8 days
-#### Delete a lineup: 2 days
-#### Delete a player: 2 days
-#### Favorite teams save feature: 3 days
-#### Live feed fantasy tips: 4 days
-#### Search community teams: 3 days (Accepted choice) 
+##With velocity: 43 days (rounded up)
+#2 people x 30 day iteration x 0.7 = 42 days total to finish
+#One iteration will be <= 30 days
+#Second iteration will be 12 days
 
-##Team
-#### Write a Review of team: 2 days	
-#### Select a game style: 3 days
-#### Set user preferences: 3 days
-#### Create a new team: 5 days
-#### Delete a lineup: 1 days
-#### Delete a player: 1 days
-#### Favorite teams save feature: 1 days
-#### Live feed fantasy tips: 3 days
-#### Search community teams: 3 days 
+###Organized
+###Select game style = 2 days, priority of 10
+	#-velocity: 3 days
+###Create a new Team = 5 days, priority of 10
+	#-velocity: 7 days
+###Delete a player = 3 days, priority 20
+	#-velocity: 4 days
+###Delete a lineup = 3 days, priority 20
+	#-velocity: 4 days
+###Set User Preferences = 4 days, priority 30
+	#-velocity: 6 days
+###Search Community teams = 3 days, priority 30
+	#-velocity: 4 days
+###Write review of a team = 3 days, priority 40
+	#-velocity: 4 days
+###Favorite team save feature = 3 days, priority 50
+	#-velocity: 4 days
 
-##Revisions
-There were no revisions that were decided on. We felt pretty confident after our last meeting
-that these were solid estimations for the scope of these user storys.
+#Velocity days: 49 days
 
-#Details of the process and the procedures that were followed
-Starting with the name, our team began by brainstorming ideas for a name for the team. This 
-was a 20 minute discussion that ended with deciding on a list of names with "Death Star" at the top
-of the list. Our next meeting we played poker to decide on which app idea would be our development
-choice. 
+###ITERATION 1 with velocity taken into account: 27 days
+#Select game style = 3 days, priority of 10
+#Create a new Team = 7 days days, priority of 10
+#Delete a player = 4 days, priority 20
+#Delete a lineup = 4 days, priority 20
+#Set User Preferences = 6 days, priority 30
 
-These ideas were:
-	**Automation App**
-		An application that automates certain tasks on your phone and provides small macro 
-		features as well. You will be able to create a task that will do something based on 
-		a location or a time. Also will be able to do a small script that does multiple tasks.
-	**Chat Enhancer**
-		An application that enhances a standard messenger giving the user’s the ability to 
-		query and display sports stats, quotes, and pictures.
-	**Microphone app**
-		An application that acts as a microphone by using numerous other peoples phones 
-		speakerphone.  The app would allow users to connect to your phone and when you 
-		spoke out of your phone it would come out of all the other peoples phones.
-	**Fantasy Football**
-		An application that would build a fantasy football lineup for the user based off of 
-		a few parameters preset by the developer. The app would allow for mass creation and 
-		randomization of sports fantasy lineups for daily or season leagues.
+####ITERATION 2 with velocity taken into account: 12 days	
+#Search Community teams = 4 days, priority 30
+#Write review of a team = 4 days, priority 40
+#Favorite team save feature = 4 days, priority 50
+-----------------------------------------------------------------------
+###Plan B:
+#(User added 2 additional user stories at priority 10) - assume you were at the 
+#end of the first iteration when these were introduced.
+##For the 2 new stories: 1 is a feature, the other is an emergency:
+##20, 30, 40, 10, 30, 50, 20, 10, 50, 10(new), 10(emergency)
 
-Once the team's software target was established, we moved to figuring out the user stories for the
-target. We had an agreement to bring _at least_ 6 user stories to the table for our next meeting. We
-gathered for the next meeting and sorted our stories based on likeness, scope, and elegance. Two of
-my stories were accepted while the other four were either duplicates or out-of-scope. Our next 
-meeting we played poker again but this time it was for the user story time estimates. The 
-estimates for each task were played and the variance to our ultimate choices were very small. 
-Finally, we had to develop tasks for each user story. Currently we have one user story's tasks
-planned out. 
-There are 6 of them:
-######Sport Class(Estimation: 2 days)
-######Create Scheme(Estimation: 2 days)
-######Team Preference Class(Estimation: 4 days)
-######Create a Team(Estimation: 2 days)
-######SQL Interface(Estimation: 3 days)
-######Create UI Class(Estimation: 5 days)
-These were decided on a mixture of playing poker and general discussion. 
+##NOW 10 user stories:
 
-#How the team interaction worked:
-The interations with each other has been very smooth. We all tend to have the same idea on the 
-scope of certain pieces to the project. There has been a couple brief debates between members on
-what tasks should be used for a user story, but that is a healthy given.
+###Organized
+###Emergency user story = 3 days, priority 10
+	#-velocity: 4 days
+###New feature user story = 3 days, priority 10
+	#-velocity: 4 days
+###Select game style = 2 days, priority of 10
+	#-velocity: 3 days
+###Create a new Team = 5 days, priority of 10
+	#-velocity: 7 days
+###Delete a player = 3 days, priority 20
+	#-velocity: 4 days
+###Delete a lineup = 3 days, priority 20
+	#-velocity: 4 days
+###Set User Preferences = 4 days, priority 30
+	#-velocity: 6 days
+###Search Community teams = 3 days, priority 30
+	#-velocity: 4 days
+###Write review of a team = 3 days, priority 40
+	#-velocity: 4 days
+###Favorite team save feature = 3 days, priority 50
+	#-velocity: 4 days
 
-#What **did** and **did not** work and observations of the process:
-I feel like playing poker is a great process for seeing everyones ideas and deciding based on
-majority vote. If the mode of a given set of cards does not exist, then we will take the average
-of the overall cards given that their are no outliers to throw of the average. I felt that general
-discussion with no organization of what to do tends to lead to longer meeting times and less 
-production. This was present in earlier meetings due to getting to know each other and figuring 
-out a direction. As time went on, things began to get smoother, we started using the method of
-playing poker and that ended up being very successful in fast, efficient meetings.
+
+##With velocity: 43 days (rounded up)
+#2 people x 30 day iteration x 0.7 = 42 days total to finish
+#One iteration will be 29 days
+#Second iteration will be 14 days
+
+###NEW ITERATION 1 with velocity taken into account and emergency story: NOW: 29 days
+#Select game style = 3 days, priority 10
+#Create a new Team = 7 days days, priority 10
+#Delete a player = 4 days, priority 20
+#Delete a lineup = 4 days, priority 20
+#EMERGENCY Story = 4 days, priority 10 
+#NEW USER FEATURE = 3 days, priority 10
+#Search Community teams = 4 days, priority 30
+
+####NEW ITERATION 2 with velocity taken into account and extra feature: NOW 14 days	
+#Set User Preferences = 6 days, priority 30
+#Write review of a team = 4 days, priority 40
+#Favorite team save feature = 4 days, priority 50
+
+###CURRENT SITUATION(Plan B):
+###ITERATION 1 with velocity taken into account: 26 days
+#Select game style = 3 days, priority of 10 - completed
+#Create a new Team = 7 days days, priority of 10 - completed
+#Delete a player = 4 days, priority 20 - completed
+#EMERGENCY STORY = 4 days. priority 10 -- now working on
+#New user story = 4 days, priority 10
+#Delete a lineup = 4 days, priority 20
+
+
+####ITERATION 2 with velocity taken into account: 18 days
+#Set User Preferences = 6 days, priority 30	
+#Search Community teams = 4 days, priority 30
+#Write review of a team = 4 days, priority 40
+#Favorite team save feature = 4 days, priority 50
+
+## What happened: 
+# Because of the new stories that were added while at the end of Iteration 1, We would
+# have to push a 6 day user story to the next iteration, making iteration shorter in the long run,
+# but now iteration 2 has 18 days. Note that the NEW FEATURE user story is immediatly after emergency.
+-----------------------------------------------------------------------
+###Plan C:
+##(A user-story with a non-trivial estimate is taking 2x longer)
+##20, 30, 40, 10, 30, 50, 20, 10, 50
+##With velocity: 43 days (rounded up)
+#2 people x 30 day iteration x 0.7 = 42 days total to finish
+
+
+###Organized
+###Select game style = 2 days, priority 10
+	#-velocity: 3 days
+###Create a new Team = 5 days, priority 10
+	#-velocity: 7 days
+###Delete a player = 3 days, priority 20
+	#-velocity: 4 days
+###Delete a lineup = 3 days, priority 20
+	#-velocity: 4 days
+###Set User Preferences = 8 days, priority 30
+	#-velocity: 11 days
+###Search Community teams = 3 days, priority 30
+	#-velocity: 4 days
+###Write review of a team = 3 days, priority 40
+	#-velocity: 4 days
+###Favorite team save feature = 3 days, priority 50
+	#-velocity: 4 days
+
+#Velocity days: 49 days
+
+###NEW ITERATION 1 with velocity taken into account, 2x longer story: 29 days
+#Select game style = 3 days, priority of 10
+#Create a new Team = 7 days days, priority of 10
+#Delete a player = 4 days, priority 20
+#Delete a lineup = 4 days, priority 20
+#Set User Preferences = 11 days, priority 30
+
+####NEW ITERATION 2 with velocity taken into account, 2x longer story: 12 days	
+#Search Community teams = 4 days, priority 30
+#Write review of a team = 4 days, priority 40
+#Favorite team save feature = 4 days, priority 50
+
+##How to adjust for this scenario: Luckily, iteration 1 had enough
+##room to accomodate the larger time period for the non-trivial user story.
+
+###ITERATION 1 with velocity taken into account and emergency story: NOW: 24 days
+#Select game style = 3 days, priority of 10 - completed
+#Create a new Team = 7 days days, priority of 10 - completed
+#Delete a player = 4 days, priority 20 - completed
+#Delete a lineup = 4 days, priority 20 - completed
+#EMERGENCY Story = 3 days, priority 10 - completed
+#NEW USER FEATURE = 3 days, priority 10 - in progress
+
+####ITERATION 2 with velocity taken into account and extra feature: NOW 23 days	
+#Set User Preferences = 11 days, priority 30
+#Search Community teams = 4 days, priority 30
+#Write review of a team = 4 days, priority 40
+#Favorite team save feature = 4 days, priority 50
+
+##In the reality scenario, we were sprung with a problem with our last user story taking
+##longer, therefore we needed to post pone the 2x longer story to the next iteration,
+##and swap out a smaller time estimated storyfrom iteration 2 for the last part of iteration 
+##1. This made the total of iteration one into 24 total work days, and increased iteration 2
+##to 23 days of work.
+------------------------------------------------------------------------------
+###Plan D: 
+#(The other developer is taken for another project)(Lone wolf style)
+#-At the start of the last iteration of your current plan
+#1 x 30 x 0.7 = 21 days of actual work solo with 0.7 velocity in 30 day
+#However, 8 days remain of actual work, with 11 days to spare
+
+###NEW ITERATION 1 with velocity taken into account: 18 days
+#Select game style = 3 days, priority of 10
+#Create a new Team = 7 days days, priority of 10
+#Delete a player = 4 days, priority 20
+#Delete a lineup = 4 days, priority 20
+
+
+####NEW ITERATION 2 with velocity taken into account: 18 days
+#Search Community teams = 4 days, priority 30
+#Set User Preferences = 6 days, priority 30	
+#Write review of a team = 4 days, priority 40
+#Favorite team save feature = 4 days, priority 50
+
+##Reality scenario
+####ITERATION 2 with velocity taken into account and extra feature and 1 developer: 19 days
+#Set User Preferences = 11 days, priority 30
+#Search Community teams = 4 days, priority 30
+#Write review of a team = 4 days, priority 40
+
+####ITERATION 3 with velocity taken into account and extra feature and 1 developer: 4 days
+#Favorite team save feature = 4 days, priority 50
+
+##What happened: At the beggining of iteration 2, a developer was switched from project, thus having
+##to re-evaluate the velocity with work days and re adjust an iteration plan. This time a single worker
+##will get 21 days of work done in a 30 day iteration at a velocity of 70%. This caused a change in iteration
+## 2 that had to push "Favorite team save feature" to a brand new iteration to guarentee that user stories
+## will all be completed within the given iteration.
