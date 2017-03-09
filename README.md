@@ -110,7 +110,7 @@ ______________________________________________________________________
 ###Write review of a team = 4 days, priority 40
 ###Favorite team save feature = 4 days, priority 50
 
-##CURRENT SITUATION(Plan B):
+##Reality scenario
 ##ITERATION 1 with velocity taken into account: 26 days
 ###Select game style = 3 days, priority of 10 - completed
 ###Create a new Team = 7 days days, priority of 10 - completed
@@ -171,6 +171,7 @@ ______________________________________________________________________
 ####How to adjust for this scenario: Luckily, iteration 1 had enough
 ####room to accomodate the larger time period for the non-trivial user story.
 
+##Reality scenario
 ##ITERATION 1 with velocity taken into account and emergency story: NOW: 24 days
 ###Select game style = 3 days, priority of 10 - completed
 ###Create a new Team = 7 days days, priority of 10 - completed
