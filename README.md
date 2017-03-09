@@ -2,8 +2,8 @@
 #### Author ID    : 2152277								 | 		
 #### Author Team  : Death Star								 |
 #### Class Section: 801	
-
-#####User stories to work with(adjusted for this assignment on days):
+______________________________________________________________________
+###User stories to work with(adjusted for this assignment on days):
 #### Write a Review of team: 3 days - 40
 #### Select a game style: 2 days - 10
 #### Set user preferences: 4 days - 30
